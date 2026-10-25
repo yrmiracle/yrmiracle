@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yrmiracle/yrmiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+一个正在努力转型AI Agent工程师的普通人
